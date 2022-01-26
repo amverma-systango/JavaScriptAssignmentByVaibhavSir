@@ -21,6 +21,10 @@ body{
 	background-clip: padding-box; 
 }
 
+.roundedBorder{
+	border-radius: 20px;
+}
+
 .customeInput{
 	height: 50px;
 	border-radius: 10px;

@@ -35,6 +35,10 @@ body{
 	font-weight: bold;
 }
 
+.roundedBorder{
+	border-radius: 20px;
+}
+
 
 #result{
 	font-size: 2rem;
