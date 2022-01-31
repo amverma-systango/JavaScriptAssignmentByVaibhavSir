@@ -4,7 +4,7 @@ let result = document.getElementById("result");
 
 
 function check(){
-	let year = parseInt(inp.value)
+	let year = parseInt(inp.value);
 	
 	if( year % 400 === 0 )
 	{
